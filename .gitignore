@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Python cache / venv
+__pycache__/
+venv/
+
+# Local data and intermediate files
+AAP_PDF/
+ocr_images/
+raw_txt/
+reports/
+analysis.txt
+
+# Tools / scratch
+show_question.py
